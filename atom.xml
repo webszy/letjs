@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://webszy.github.io</id>
+    <title>Gridea</title>
+    <updated>2019-07-22T13:40:33.077Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://webszy.github.io"/>
+    <link rel="self" href="https://webszy.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://webszy.github.io/images/avatar.png</logo>
+    <icon>https://webszy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://webszy.github.io/post/test</id>
+        <link href="https://webszy.github.io/post/test">
+        </link>
+        <updated>2019-07-22T13:40:13.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+</feed>
